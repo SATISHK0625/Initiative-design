@@ -65,7 +65,6 @@ body {
     background-color: white;
     color: #5978FF;
     padding:10px 20px 10px 20px;
-    border:1px solid; 
     border-radius:10px;
     cursor:pointer;
     font-family:"Montserrat";
@@ -80,7 +79,6 @@ body {
     background-color:  #5978FF;
     color:white;
     padding:10px 20px 10px 20px;
-    border:1px solid;
     border-radius:10px;    
     cursor:pointer;
     font-family:"Montserrat";
